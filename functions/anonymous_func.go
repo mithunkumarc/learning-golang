@@ -12,3 +12,4 @@ func main() {
 }
 
 //anony 42
+//in python : c = (lambda x: x * x)(5)
