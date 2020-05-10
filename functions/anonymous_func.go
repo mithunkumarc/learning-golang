@@ -13,3 +13,4 @@ func main() {
 
 //anony 42
 //in python : c = (lambda x: x * x)(5)
+//in js : (function () {console.log("hello world")})()
