@@ -12,7 +12,7 @@ func main() {
 	fmt.Println(message)
 }
 
-//this function is being sent as argument to square_calculator
+//this function is being sent as argument to login
 func validation(name string) bool {
 	if(len(name) > 0){
 		return true
