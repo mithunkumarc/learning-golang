@@ -1,4 +1,5 @@
-check version windows  : go version
+check version windows  : go version  
+todo : exporting components  
 
 # golang-learning
 
