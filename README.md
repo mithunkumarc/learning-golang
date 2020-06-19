@@ -1,3 +1,5 @@
+check version windows  : go version
+
 # golang-learning
 
 #### method accepts obj as pointer : Pointer receivers
