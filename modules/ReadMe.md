@@ -54,7 +54,7 @@
       
 #### go.mod file
 
-      required dependencies will be listed in this fille
+      required dependencies will be listed in this file
       similar to package.json file in nodejs
       
       
