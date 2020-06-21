@@ -1,7 +1,10 @@
 check version windows  : go version  
 todo : exporting components  
 
-# golang-learning
+#### exporting function : declare function with uppercase letter
+
+        if you want to import func from other package you have to export first 
+        to export function, declare function with uppercase letter
 
 #### method accepts obj as pointer : Pointer receivers
 
