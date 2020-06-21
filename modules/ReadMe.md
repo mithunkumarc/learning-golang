@@ -38,6 +38,14 @@
         $ cd packer
         $ go mod init github.com/callicoder/packer
         
+#### importing package : local
+
+          import "github.com/<user-or-orgname>/<modulename>/<package1>"
+
+          import (
+                    "github.com/callicoder/packer/numbers"
+          )
+        
 #### build and run : windows
         go build
         moduleName.exe
