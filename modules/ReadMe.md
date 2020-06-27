@@ -1,4 +1,7 @@
-#### structure
+#### package example : understand how we import format.go file, using package name "fmt"
+
+                    reference example : https://github.com/golang/go/blob/master/src/fmt/format.go
+#### structure          
 
           + module folder
              + package1
