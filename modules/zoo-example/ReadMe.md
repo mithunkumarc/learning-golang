@@ -18,3 +18,19 @@
 4. zoo > go build
 
 5. zoo > zoo.exe	
+
+6. main file : 
+
+		package main
+		import (
+			"fmt"
+			"github.com/mithun/zoo/animals"
+			"github.com/mithun/zoo/birds"
+			)
+		func main() {
+			fmt.Println("hello world")
+			animals.LionEat()		// packageName.<functionFromSourceFileBelongsToPackage>
+			animals.TigerEat()
+			birds.EmuEat()
+			birds.ParrotEat()
+		}
