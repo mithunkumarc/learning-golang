@@ -1,6 +1,7 @@
 #### package example : understand how we import format.go file, using package name "fmt"
 
                     reference example : https://github.com/golang/go/blob/master/src/fmt/format.go
+                    example : https://play.golang.org/p/3ymtJq-80w2
 #### structure          
 
           + module folder
