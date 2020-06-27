@@ -2,11 +2,11 @@
 
           + module folder
              + package1
-                + file1
-                + file2
+                + file1                     // declare : package <package1> in the first line
+                + file2                     // declare : package <package1> in the first line     
                 + package2
-                  file1
-                  file2
+                  file1                     // declare : package <package2> in the first line      
+                  file2                     // declare : package <package2> in the first line      
            + file with main func
            go.mod               // helps to "go build" and to generate modName.exe file to execute  
 
@@ -19,9 +19,9 @@
 
       + packer                      // module
         + numbers                   // package
-          + addition.go             // source file
-          + helperAddition.go
-      + mainfunc.go                 // staring point to execute
+          + addition.go             // source file : declare : "package numbers" in the first line
+          + helperAddition.go       // declare : "package numbers" in the first line              
+      + mainfunc.go                 // staring point to execute, "package main"
       
       In the above example, addition.go files can use functions from helperAddition.go
       ** make sure function declared with uppercase letter to export
@@ -47,6 +47,7 @@
           )
         
 #### build and run : windows
+
         go build
         moduleName.exe
         
