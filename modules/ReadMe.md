@@ -2,11 +2,11 @@
 
           + module folder
              + package1
-                + file1                     // declare : package <package1> in the first line
-                + file2                     // declare : package <package1> in the first line     
+                + file1.go                     // declare : package <package1> in the first line
+                + file2.go                     // declare : package <package1> in the first line     
                 + package2
-                  file1                     // declare : package <package2> in the first line      
-                  file2                     // declare : package <package2> in the first line      
+                  file1.go                     // declare : package <package2> in the first line      
+                  file2.go                     // declare : package <package2> in the first line      
            + file with main func
            go.mod      
            // helps to "go build" and to generate modName.exe file to execute  
