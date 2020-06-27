@@ -8,9 +8,13 @@
                   file1                     // declare : package <package2> in the first line      
                   file2                     // declare : package <package2> in the first line      
            + file with main func
-           go.mod               // helps to "go build" and to generate modName.exe file to execute  
+           go.mod      
+           // helps to "go build" and to generate modName.exe file to execute  
+           
+           
+#### declaring package and sourcefile inside package similar to java , but to run project module is required
 
-     
+
 #### exporting function 
 
         to export function , declare function starting with uppercase letter
