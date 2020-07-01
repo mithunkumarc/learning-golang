@@ -1,5 +1,7 @@
 check version windows  : go version  
-todo : exporting components  
+todo : 
+        exporting components  
+        roadmap : https://www.educative.io/courses/the-way-to-go
 
 #### exporting function : declare function with uppercase letter
 
