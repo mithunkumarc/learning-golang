@@ -5,3 +5,17 @@
         }
         
         // receiver : optional
+
+#### curly braces must start at the end of function declaration
+
+        // error
+        func main() 
+        {
+          fmt.Println("Hello, playground")
+        }
+        
+        // ok
+        func main() {
+	        fmt.Println("Hello, playground")
+        }
+
