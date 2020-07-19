@@ -10,10 +10,10 @@ folder structure
           animal
                tiger.go
                clinic.go
-          main.go ( declare package main : no folder )
+          main.go ( declare package main : folder name "main" optional )
               
 
 run
 
-        go build
+        go build  (run this command where there is main.go file)
         zoo.exe
