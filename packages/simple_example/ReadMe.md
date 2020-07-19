@@ -10,8 +10,8 @@ folder structure
           animal
                tiger.go
                clinic.go
-          main
-              main.go
+          main.go ( declare package main : no folder )
+              
 
 run
 
