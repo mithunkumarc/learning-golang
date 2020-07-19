@@ -15,7 +15,7 @@
                 + package2
                   file1.go                     // declare : package <package2> in the first line      
                   file2.go                     // declare : package <package2> in the first line      
-           + file with main func
+           + file with main func               // folder called "main" can be declared to main
            go.mod      
            // helps to "go build" and to generate modName.exe file to execute  
            
@@ -60,7 +60,7 @@
         
 #### build and run : windows
 
-        go build
+        go build                        (search for main.go, this command to be run where there is main.go)
         moduleName.exe
         
         
