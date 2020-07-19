@@ -1,7 +1,9 @@
 check version windows  : go version  
 todo : 
         exporting components  
-        roadmap : https://www.educative.io/courses/the-way-to-go
+        roadmap : 
+        https://www.educative.io/courses/the-way-to-go
+        https://tutorialedge.net/golang/
 
 #### exporting function : declare function with uppercase letter
 
