@@ -1,4 +1,10 @@
 check version windows  : go version  
+
+go packages : 
+
+        https://godoc.org/?q=quote
+
+
 todo : 
         exporting components  
         roadmap : 
