@@ -5,7 +5,8 @@
         }
         
         // receiver : optional
-
+	// if a function is returning value, returnType is mandatory
+	
 #### curly braces must start at the end of function declaration
 
         // error, reason: end of line golang compiler puts semicolumns default
