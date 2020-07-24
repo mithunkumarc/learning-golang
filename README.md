@@ -10,6 +10,7 @@ todo :
         roadmap : 
         https://www.educative.io/courses/the-way-to-go
         https://tutorialedge.net/golang/
+        https://blog.logrocket.com/functional-programming-in-go/
 
 #### exporting function : declare function with uppercase letter
 
