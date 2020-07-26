@@ -15,6 +15,7 @@ todo :
                 https://flaviocopes.com/golang-data-structures/
                 set in golang : https://stackoverflow.com/questions/34018908/golang-why-dont-we-have-a-set-datastructure
                 http://www.golangbootcamp.com/book
+                https://yourbasic.org/golang/
 
 #### exporting function : declare function with uppercase letter
 
