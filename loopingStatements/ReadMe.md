@@ -10,3 +10,7 @@ fix :
         for i := 0 ; i < 5 ; i++ {
             fmt.Println(i)
           }
+
+todo
+
+        https://yourbasic.org/golang/for-loop/
