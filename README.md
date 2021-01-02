@@ -1,11 +1,14 @@
-check version windows  : go version  
+#### commands : 
 
-go packages : 
+        get version : go version  
+        running golang file :  go run main.go     
+
+#### go packages : 
 
         https://godoc.org/?q=quote
 
 
-todo : 
+#### todo : 
         
                 exporting components  
                 roadmap : 
