@@ -1,0 +1,6 @@
+1. make() can create slices, maps and channels
+2. imagine chanel like pipe
+3. using channel as waitgroup is bad practice(refer channelsmore package).use waitgroup
+4. channel direction
+        data sending on channel : ch <- 4
+        receiving data from channel : data <- ch

@@ -1,0 +1,13 @@
+two structs cannot be declared in same package
+else you will get redeclared error
+
+java reference var and 
+golang pointe var pointing to object both are same
+difference is golang has symbol *type , java dont
+
+// in java, p is ref var
+Person p = new Person(); //java
+
+// in golang, pp is ref var(pointer var)
+var p Person = Person{name:"abc"}
+var pp *Person = &p

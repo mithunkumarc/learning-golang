@@ -1,0 +1,16 @@
+size of int is 4bypes in 32bit and 8bytes in 64bit
+in another words, int is int32 for 32 bit os and int64 for 64 bit os.
+
+1. bool
+2. string
+2. int  int8  int16  int32  int64
+4. float32 float64
+5 rune // alias for int32
+eg for "rune" : 
+    var j rune
+    j = 1
+    fmt.Printf("%T \n", j) // int32
+
+
+6. complex64 complex128
+7. uint uint8 uint16 uint32 uint64 uintptr

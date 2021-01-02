@@ -1,0 +1,14 @@
+control and looping statements body enclosed with curly braces.
+
+curly braces should start at the end of statment in same line.
+eg : 
+    for ... { //brace should start here
+
+    }
+
+    if brace is skipped or moved to next line. compiler throws error.
+    if brace is missed golang treats end of each statement. so infers as body missing.
+
+No Need to give break statement in switch case :
+switch statement by default provide break statement for
+each case.
