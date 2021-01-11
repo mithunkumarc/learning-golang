@@ -16,10 +16,12 @@
                 https://tutorialedge.net/golang/
                 https://blog.logrocket.com/functional-programming-in-go/
                 https://flaviocopes.com/golang-data-structures/
-                set in golang : https://stackoverflow.com/questions/34018908/golang-why-dont-we-have-a-set-datastructure
+                set in golang : 
+                https://stackoverflow.com/questions/34018908/golang-why-dont-we-have-a-set-datastructure
                 http://www.golangbootcamp.com/book
                 https://yourbasic.org/golang/
                 https://golang.org/pkg/builtin/ : explore builtin funcitons
+                https://golang.org/doc/effective_go.html
 
 #### exporting function : declare function with uppercase letter
 
