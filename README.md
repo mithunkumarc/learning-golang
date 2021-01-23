@@ -22,6 +22,10 @@
                 https://yourbasic.org/golang/
                 https://golang.org/pkg/builtin/ : explore builtin funcitons
                 https://golang.org/doc/effective_go.html
+                
+#### practice : 
+        
+                https://github.com/quii/learn-go-with-tests
 
 #### exporting function : declare function with uppercase letter
 
