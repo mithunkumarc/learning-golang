@@ -22,6 +22,7 @@
                 https://yourbasic.org/golang/
                 https://golang.org/pkg/builtin/ : explore builtin funcitons
                 https://golang.org/doc/effective_go.html
+                https://quii.gitbook.io/learn-go-with-tests
             
 #### must read : 
 
