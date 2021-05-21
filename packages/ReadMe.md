@@ -1,3 +1,8 @@
+Read 
+ 
+       golangbot.com/go-packages/
+
+
 ### folder structure , you can design folder structure like java. but for golang all the go files inside the a package merge into single big file(not literally). 
 ### Even if you don't create folder for package , it is enough that each source file declare package name in the beginning, it still works.
 ### no need to declare import statement if one file importing from another file from same package
