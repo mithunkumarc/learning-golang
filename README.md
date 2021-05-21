@@ -6,6 +6,8 @@
 #### go packages : 
 
         https://godoc.org/?q=quote
+        https://golangbot.com/go-packages/
+
 
 
 #### todo : 
