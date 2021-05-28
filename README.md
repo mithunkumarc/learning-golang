@@ -8,6 +8,9 @@
         https://godoc.org/?q=quote
         https://golangbot.com/go-packages/
 
+#### GitHub
+
+        github.com/emirpasic/gods :data structures
 
 
 #### todo : 
