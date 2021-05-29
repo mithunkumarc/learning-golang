@@ -40,6 +40,8 @@ https://go101.org/article/101.html
                 github.com/striversity/glft
                 github.com/striversity/gotr
                 yourbasic.org/algorithms
+                github.com/inancgumus/learngo
+
 
 
 #### exporting function : declare function with uppercase letter
