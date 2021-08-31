@@ -28,6 +28,8 @@
                 https://golang.org/pkg/builtin/ : explore builtin funcitons
                 https://golang.org/doc/effective_go.html
                 https://quii.gitbook.io/learn-go-with-tests
+                zetcode.com
+                github.com/mercadolibre/golang-tutorial-public
             
 #### must read : 
 
