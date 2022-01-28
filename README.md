@@ -30,7 +30,8 @@
                 https://quii.gitbook.io/learn-go-with-tests
                 zetcode.com
                 github.com/mercadolibre/golang-tutorial-public
-            
+                https://www.topfreebooks.org/best-go-programming-books/
+
 #### must read : 
 
 https://go101.org/article/101.html  
