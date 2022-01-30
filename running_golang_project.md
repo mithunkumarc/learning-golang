@@ -1,3 +1,34 @@
+#### creating go mod 
+
+        lenovo@ubuntu:~/workspace/go/examples/mygo$ go mod init github.com/mithunkumarc/mygo
+        go: creating new go.mod: module github.com/mithunkumarc/mygo
+        lenovo@ubuntu:~/workspace/go/examples/mygo$ ls
+        go.mod
+
+#### creating main.go
+
+        package main
+
+        import "fmt"
+
+        func main() {
+                fmt.Println("hello");
+        }
+
+#### building and running project
+
+        lenovo@ubuntu:~/workspace/go/examples/mygo$ ls
+        go.mod  main.go
+        lenovo@ubuntu:~/workspace/go/examples/mygo$ go build
+        lenovo@ubuntu:~/workspace/go/examples/mygo$ ls
+        go.mod  main.go  mygo
+        lenovo@ubuntu:~/workspace/go/examples/mygo$ ./mygo 
+        hello
+
+
+
+***
+
 #### creating module : 
 
         module name : zoo
