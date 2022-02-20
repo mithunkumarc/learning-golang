@@ -18,6 +18,7 @@
                 exporting components  
                 roadmap : 
                 https://www.educative.io/courses/the-way-to-go
+                https://www.callicoder.com/categories/golang/
                 https://tutorialedge.net/golang/
                 https://blog.logrocket.com/functional-programming-in-go/
                 https://flaviocopes.com/golang-data-structures/
