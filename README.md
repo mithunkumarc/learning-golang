@@ -46,6 +46,7 @@ https://go101.org/article/101.html
                 yourbasic.org/algorithms
                 github.com/inancgumus/learngo
                 golangdocs.com
+                https://gosamples.dev/
 
 
 
