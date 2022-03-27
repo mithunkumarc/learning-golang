@@ -1,7 +1,15 @@
 #### commands : 
 
         get version : go version  
-        running golang file :  go run main.go     
+        running golang file :  go run main.go  
+        
+#### creating and running project
+
+        mkdir demo
+        demo>go mod init <github.com/username/modname>
+        demo>main.go create and edit
+        demo>go build
+        demo>./modname
 
 #### go packages : 
 
