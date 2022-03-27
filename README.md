@@ -3,6 +3,16 @@
         get version : go version  
         running golang file :  go run main.go  
         
+#### installing
+        
+        https://www.digitalocean.com/community/tutorials/how-to-install-go-on-ubuntu-20-04
+        
+        get list of versions
+        https://go.dev/dl/
+        latest
+        curl -OL https://golang.org/dl/go1.18.linux-amd64.tar.gz
+        
+
 #### creating and running project
 
         mkdir demo
