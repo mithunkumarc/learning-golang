@@ -50,6 +50,7 @@
                 zetcode.com
                 github.com/mercadolibre/golang-tutorial-public
                 https://www.topfreebooks.org/best-go-programming-books/
+                https://www.ardanlabs.com/categories/go-programing/
 
 #### must read : 
 
@@ -65,7 +66,7 @@ https://go101.org/article/101.html
                 github.com/inancgumus/learngo
                 golangdocs.com
                 https://gosamples.dev/
-
+                https://www.ardanlabs.com/categories/go-programing/
 
 
 #### exporting function : declare function with uppercase letter
