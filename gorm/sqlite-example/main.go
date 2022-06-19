@@ -21,11 +21,12 @@ func main() {
 	}
 	// Migrate : creating schema?
 	db.AutoMigrate((&Product{}))
+	
 	// create
-	//db.Create(&Product{Code: "D42", Price: 100})
+	db.Create(&Product{Code: "D42", Price: 100})
+	
 	// Read
-
-	var product Product
+	var product Product // to store result
 	db.First(&product, 1) // find product with primary key 1
-	fmt.Println(product)
+	fmt.Println(product) // result stored in product
 }
