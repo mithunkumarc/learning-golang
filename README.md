@@ -3,6 +3,22 @@
         get version : go version  
         running golang file :  go run main.go  
         
+        creating project
+        lenovo@ubuntu:~/workspace/go/examples/string$ go mod init stringex
+        go: creating new go.mod: module stringex
+
+        building project
+        lenovo@ubuntu:~/workspace/go/examples/string$ go build main.go
+                
+        running project
+        lenovo@ubuntu:~/workspace/go/examples/string$ ./main 
+
+        or building and running main file
+        go run main.go  
+
+
+
+        
 #### installing
         
         https://www.digitalocean.com/community/tutorials/how-to-install-go-on-ubuntu-20-04
