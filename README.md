@@ -16,6 +16,10 @@
         or building and running main file
         go run main.go  
 
+### practice
+
+        https://pkg.go.dev/builtin
+        https://pkg.go.dev/std
 
 
         
