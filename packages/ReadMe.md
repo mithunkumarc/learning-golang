@@ -3,6 +3,24 @@ Read
        golangbot.com/go-packages/
 
 
+#### How to import packages
+
+        creating project : go mod init calculator
+        
+        user defined package mathematics
+        mathematics // folder
+          adder.go //package mathematics
+        
+        main.go // entry file
+
+        /* code in main.go
+        import (
+	         m "calculator/mathematics"
+        	 "fmt"
+         )
+        */
+      
+
 ### folder structure , you can design folder structure like java. but for golang all the go files inside the a package merge into single big file(not literally). 
 ### Even if you don't create folder for package , it is enough that each source file declare package name in the beginning, it still works.
 ### no need to declare import statement if one file importing from another file from same package
