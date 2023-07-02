@@ -26,12 +26,16 @@
 #### installing
         
         https://www.digitalocean.com/community/tutorials/how-to-install-go-on-ubuntu-20-04
-        
-        get list of versions
-        https://go.dev/dl/
-        latest
-        curl -OL https://golang.org/dl/go1.18.linux-amd64.tar.gz
 
+        check release here : 
+        curl -OL https://golang.org/dl/go1.20.5.linux-amd64.tar.gz
+        sha256sum go1.20.5.linux-amd64.tar.gz
+        sudo tar -C /usr/local -xvf go1.20.5.linux-amd64.tar.gz
+        sudo nano ~/.profile or sudo vi ~/.profile
+        source ~/.profile
+        set : export PATH=$PATH:/usr/local/go/bin
+        
+        
 #### UninstallGo
 
         https://stackoverflow.com/questions/42186003/how-to-uninstall-go
