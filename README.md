@@ -31,6 +31,10 @@
         https://go.dev/dl/
         latest
         curl -OL https://golang.org/dl/go1.18.linux-amd64.tar.gz
+
+#### UninstallGo
+
+        https://stackoverflow.com/questions/42186003/how-to-uninstall-go
         
 
 #### creating and running project
