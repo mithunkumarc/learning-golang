@@ -80,6 +80,7 @@
                 https://www.topfreebooks.org/best-go-programming-books/
                 https://www.ardanlabs.com/categories/go-programing/
                 https://golangbyexample.com/golang-comprehensive-tutorial/
+                https://blog.logrocket.com/rest-api-golang-gin-gorm/
 
 
 #### must read : 
