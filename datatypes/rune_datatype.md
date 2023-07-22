@@ -2,6 +2,8 @@
 
   Go doesn't have char data type, use string with single char for gender type M/F, boolean Y/N similar to javascript
 
+  if you declare variable with a character value, data type inferred by golang will be rune 
+
 #### source : https://www.callicoder.com/golang-basic-types-operators-type-conversion/
 
 #### Golang has two additional integer types called byte and rune that are aliases for uint8 and int32 data types respectively -
