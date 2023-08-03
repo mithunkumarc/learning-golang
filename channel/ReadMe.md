@@ -1,3 +1,7 @@
+#### document : https://www.youtube.com/watch?v=VkGQFFl66X4
+
+#### unbuffered channel cannot execute in the same goroutine? https://www.youtube.com/watch?v=VkGQFFl66X4
+
 #### Unbuffered Channel(default capacity 1)
 	
      it is synchronous, when data is pushed to unbuffered channel, it will wait until this data is read(blocking)
