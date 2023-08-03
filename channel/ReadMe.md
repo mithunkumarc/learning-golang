@@ -18,3 +18,9 @@
   	https://www.youtube.com/watch?v=qyM8Pi1KiiM
 
 #### what is readonly channel?
+
+#### read
+
+	https://go101.org/article/channel.html
+ 	https://golangdocs.com/channels-in-golang
+ 	https://pkg.go.dev/github.com/eapache/channel
