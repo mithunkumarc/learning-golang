@@ -1,3 +1,7 @@
+#### Channel ?
+
+	meant to be used for multi theading environment
+
 #### document : https://www.youtube.com/watch?v=VkGQFFl66X4
 
 #### unbuffered channel 
