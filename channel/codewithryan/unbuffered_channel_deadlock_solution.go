@@ -19,4 +19,5 @@ func main() {
 	unbuffered deadlock solution :
 	in one goroutine(thread) : send data
 	and in another goroutine(thread) receive data
+ 	--or use-- buffered channel
 */
