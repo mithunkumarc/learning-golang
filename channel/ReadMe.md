@@ -6,8 +6,9 @@
 
 #### Unbuffered Channel(default capacity 1)
 	
-     it is synchronous, when data is pushed to unbuffered channel, it will wait until this data is read(blocking)
-	    when the data is read, channel opens up again for next data 
+     it is synchronous, when data is pushed to unbuffered channel, 
+     it will wait until this data is read(blocking)
+     when the data is read, channel opens up again for next data 
 
 #### Buffered Channel(while create we mention the capacity of buffer)
 	
