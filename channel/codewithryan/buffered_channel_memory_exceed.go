@@ -16,4 +16,5 @@ func main() {
 	output : 
 	fatal error: all goroutines are asleep - deadlock!
 	memory size is 1, but sending two data
+ 	solution : increasd the memory size for channel from 1 to 2
 */
