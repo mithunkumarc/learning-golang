@@ -1,6 +1,8 @@
 #### document : https://www.youtube.com/watch?v=VkGQFFl66X4
 
-#### unbuffered channel cannot execute in the same goroutine? https://www.youtube.com/watch?v=VkGQFFl66X4
+#### unbuffered channel 
+
+	cannot execute in the same goroutine? https://www.youtube.com/watch?v=VkGQFFl66X4
 
 #### Unbuffered Channel(default capacity 1)
 	
