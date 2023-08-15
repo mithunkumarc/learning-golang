@@ -34,3 +34,8 @@
 	https://go101.org/article/channel.html
  	https://golangdocs.com/channels-in-golang
  	https://pkg.go.dev/github.com/eapache/channel
+
+#### todo
+	
+	goland dojo concurrency series
+	https://www.youtube.com/playlist?list=PLve39GJ2D71wSwRQLp_h8B60pKgS85StC
