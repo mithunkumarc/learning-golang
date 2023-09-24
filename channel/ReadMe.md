@@ -51,6 +51,16 @@
 #### Select Statement
 
 	Can we do opearation on channel which ever is ready and don't worry about the order?
+ 	used for timeout opeartion , time.After function
+	default allows to exit a select block without blocking
+ 	select {} : empty select block forever
+  	select on nil channel will block forever(not initialized?)
+   	select will block until any of the case statement is ready, after executine any once case it exits
+    	use infinite for loop to wait multiple channels with multiple case
+   
+  
+ 
+
 
 #### read
 
