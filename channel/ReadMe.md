@@ -47,6 +47,11 @@
 
 #### what is readonly channel?
 
+
+#### Select Statement
+
+	Can we do opearation on channel which ever is ready and don't worry about the order?
+
 #### read
 
 	https://go101.org/article/channel.html
