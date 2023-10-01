@@ -59,7 +59,23 @@
     	use infinite for loop to wait multiple channels with multiple case
    
   
- 
+#### mutex
+		
+		Channels 
+			passing copy of data
+			Distributing units of work
+			communicating asynchronous results
+			
+		Mutex
+			used to protect shared resources,caches,state
+			
+		
+		sync.Mutex - provide exclusive access to a shared resource
+		
+		defer : end of function/block
+		
+		sync.RWMUTEX : ALLOWS multiple readers. writers get
+		exclusive lock.
 
 
 #### read
