@@ -88,5 +88,5 @@
 	
 	goland dojo concurrency series
 	https://www.youtube.com/playlist?list=PLve39GJ2D71wSwRQLp_h8B60pKgS85StC
- 	// below : todo : stop merged goroutine after receiving one value(closing gorouting)
+ 	// below : todo : stop merged goroutine after receiving one value(closing goroutine)
   	https://github.com/andcloudio/go-concurrency-exercises/blob/master/02-exercise-solution/02-pipeline/03-pipeline/main.go
