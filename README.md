@@ -34,6 +34,11 @@
         sudo nano ~/.profile or sudo vi ~/.profile
         source ~/.profile
         set : export PATH=$PATH:/usr/local/go/bin
+
+
+#### official documentation for installing
+
+        https://go.dev/doc/install
         
         
 #### UninstallGo
