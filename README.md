@@ -44,6 +44,7 @@
 #### UninstallGo
 
         https://stackoverflow.com/questions/42186003/how-to-uninstall-go
+        https://github.com/golang/go/issues/60983
         
 
 #### creating and running project
